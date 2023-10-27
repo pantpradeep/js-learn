@@ -34,4 +34,4 @@ console.log('boolean is logged in', booleanIsLoggedIn);
 
 let someNum = 33;
 let stringSomeNum = String(someNum);
-console.log(stringSomeNum, typeof stringSomeNum)
+console.log(stringSomeNum, typeof stringSomeNum);
